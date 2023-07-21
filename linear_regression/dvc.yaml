@@ -1,0 +1,8 @@
+artifacts:
+  airlineprices:
+    path: ../data/airline_price_data.csv
+    type: dataset
+    desc: Airline price prediction dataset
+    labels:
+    - regression
+    - prices
